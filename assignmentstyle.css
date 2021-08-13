@@ -1,0 +1,30 @@
+.food{
+font-size: 50px;
+text-decoration: underline;
+color: rgb(221, 41, 28);
+}
+p{
+font-size: 30px;
+color: rgb(9, 5, 66);
+font-style: italic;
+
+
+}
+#p1 {background-color: #ff0000;}/* red in HEX format */
+#p2 {background-color: hsl(120, 100%, 50%);}/* green in HSL format */
+#p3 {background-color: rgba(0, 4,
+
+
+body{
+background-colour:rebeccapurple;
+colour
+}
+
+h2{
+color: rgb(158, 128, 240);
+text-align-last: center;
+}
+p{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}

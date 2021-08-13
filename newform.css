@@ -1,0 +1,108 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background: color #eceef1; 
+
+}
+form{
+    background-color: white;
+    width: 40% ;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+.formtitle{
+    text-align: center;
+    margin-bottom: 30px;
+    color: #393939;
+    font-size: 24px;
+
+}
+
+.description{
+    color: #0077c5;
+    font-size: 14px;
+    display: block;
+    text-align: centre;
+    text-decoration: none;
+}
+label,input{
+    display:block;
+}
+label{
+    color: #404040;
+    font-size: 14px;
+    margin-bottom: 8px;
+
+}
+input{
+    width: 90%;
+    padding: 10px 5px;
+    outline: none;
+    border-width: 1px;
+    border-color: #c1c5c8;
+    border-radius: 3px;
+}
+button{
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    border: none;
+    background-color: #0077c5;
+    margin-bottom: 20px;
+}
+.create{
+    text-align: center;
+    color: #757575;
+    font-size: 14px;
+}
+.create a{
+    color: #0077c5;
+    text-decoration: none;
+}
+.learn{
+    color:#0077c5;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.learn:hover{
+    text-decoration: underline;
+}
+.inputcontainer{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+label,input{
+    display: block;
+}
+label{
+    color: #404040;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+input{
+    width: 100%;
+    padding: 10px 5px;
+    outline: none;
+    border-width: 1px;
+    border-color: #C1C5C8;
+    border-radius: 3PX;
+}
+button{
+    width: 90%;
+    display: block;
+    margin:auto;
+}
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(138, 127, 230);
+    opacity: 03;
+
+    
+
+    
+    background-position: center;
+    text-align: left;
+    text-decoration-color: black;
+    
+    font-size: 40px;
+    
+    outline-color: black;
+    background-image: images/libbaedit;
+     border-color: black ;
+      margin: 100px;
+}
+
+
+h4{
+    color: rgb(62, 17, 92);
+margin-top: 100px;
+margin-bottom: 100px;
+
+}

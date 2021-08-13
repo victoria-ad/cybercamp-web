@@ -1,0 +1,61 @@
+
+
+body{
+    text-decoration: bold;
+    background-color: #5656e9;
+    background-size: cover;
+    font-size: 30px;
+    margin:14px;
+    padding: 40px;
+    margin: 40px 40px 50px 50px;
+    text-decoration-color: white;
+    display:block
+
+    
+}
+
+
+
+ul li {
+    /* Bullet color */
+    color:yellow;
+    list-style-type: disc;
+}
+ul li span {
+    /* Text color */
+    color: white;
+}
+
+
+.first{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-transform: capitalize;
+
+
+}
+
+
+.fifth{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-transform: capitalize;
+}
+
+.third{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fourth{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+
+
+.sixth{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+
+}
